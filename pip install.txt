@@ -1,0 +1,18 @@
+pip install splinter
+
+pip install webdriver_manager
+
+pip install bs4
+
+pip install pymongo
+
+
+C:\\Program Files\\MongoDB\\Server\\\\bin
+
+
+
+pip install Flask-PyMongo
+
+pip install html5lib
+
+pip install lxml
